@@ -3,6 +3,8 @@
 A unique endless runner game that simulates the journey of pregnancy while collecting nutrients and managing physical changes throughout the trimesters.
 
 ## 🎮 Game Overview
+<img width="843" alt="Screenshot 2025-05-01 at 12 48 15" src="https://github.com/user-attachments/assets/7722dd31-0874-4ff1-8f7d-7973f51bd32d" />
+
 
 Pregnancy Runner is an educational and entertaining game that follows a pregnant character through their journey. As you progress, you'll experience realistic changes in movement, speed, and physical appearance that mirror real pregnancy progression.
 
